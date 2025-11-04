@@ -23,12 +23,7 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-```
-NAME   : DHANAPPRIYA S
-REF NO : 212224230056
-DEP    : AIDS
 
-```
 ``
 ![Screenshot 2024-08-17 143517](https://github.com/user-attachments/assets/3b8f2096-1534-4ee5-8131-da9916db6307)
 
